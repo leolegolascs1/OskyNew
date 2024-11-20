@@ -21781,9 +21781,9 @@ input[type="submit"] {
 
 .blog-img > a img {
   height: 100%;
-  width: 100%;
-  -o-object-fit: cover;
-     object-fit: cover;
+  width: 100%; 
+  -o-object-fit:contain;
+     object-fit: contain;
   -webkit-transition: all .4s ease 0s;
   -o-transition: all .4s ease 0s;
   transition: all .4s ease 0s;
