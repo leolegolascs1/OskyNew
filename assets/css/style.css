@@ -17782,7 +17782,10 @@ input[type="submit"] {
 /* Regulo el tamaño del logo del index */
 .logo img{
 
-  width: 250px;
+  width:30%;
+}
+.logo-firma{
+  width: 30%;
 }
 @media only screen and (max-width: 767px) {
   .logo.logo-center-small {
