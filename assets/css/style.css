@@ -17782,7 +17782,8 @@ input[type="submit"] {
 /* Regulo el tamaño del logo del index */
 .logo img{
 
-  width:30%;
+  width:20%;
+  min-width: 100px;
 }
 .logo-firma{
   width: 30%;
